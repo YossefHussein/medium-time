@@ -1,3 +1,7 @@
 # medium-time
- this packge for formating the time
+ this package for formatting the time
  
+ ```
+ const format = require('medium-time')
+ console.log(format.formateData('time'))
+ ```
