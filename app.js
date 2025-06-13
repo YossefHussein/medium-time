@@ -9,6 +9,4 @@ var mediumRoute = {
   },
 }
 
-console.log(mediumRoute.formatAsDay('dddd'))
-
 module.exports = mediumRoute
